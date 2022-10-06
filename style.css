@@ -1,0 +1,91 @@
+* {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(226, 236, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 900px;
+    margin: auto;
+}
+
+header {
+    position:relative;
+    margin:20px auto 0 auto;
+    width:900px;
+}
+
+header img {
+    width: 900px;
+    
+}
+
+#feature {
+    position: relative;
+    border: 1px solid #000;
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+}
+
+.title {
+    position: absolute;
+    background-color: rgba(199, 199, 199, 0.65);
+    padding: 20px;
+    width: 450px;
+    bottom: 50px;
+    left: 50px;
+}
+
+.article {
+    
+    margin: 10px 110px 20px; 
+    padding: 10px 110px 20px;
+}
+
+p {
+    padding: 10px 110px 20px;
+    margin: 0px
+}
+
+img {
+    width: 300px;
+}
+
+#article-figure {    
+    width: 300px;
+    float: right;
+    padding: 0px 0px 0px 15px;
+    margin: 0px;
+}
+
+.tags {
+    padding: 5px;
+}
+
+.tags .span {
+    font-size: 12px;
+    padding: 0;
+    border-radius: 3px;
+    color: white;
+}
+
+.button {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #4e8098 solid;
+    margin: 0px 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    border-top: 1px grey solid;
+}
